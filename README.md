@@ -2,7 +2,7 @@
 composer require --prefer-dist lulubin/yii2-helper-qrcode "dev-master"
 
 ## 2.Usage
-### Example1
+### 2.1Example1
 #### Controller
 ```php
 namespace app\controllers;
@@ -27,7 +27,7 @@ use yii\helpers\Url;
 <img src="<?= Url::to(['/site/qrcode','code_url'=>'https://luluqi.cn'])?>" />
 ```
 
-### Example2
+### 2.2Example2
 #### Controller
 ```php
 namespace app\controllers;
