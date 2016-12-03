@@ -5,9 +5,11 @@ composer require --prefer-dist lulubin/yii2-helper-qrcode "dev-master"
 ### Controller
 ```php
 namespace app\controllers;
+
+use yii\web\Controller;
 use lulubin\qrcode\QrCode;
 
-class SiteController extends \yii\web\Controller
+class SiteController extends Controller
 {
     public function actionQrcode($code_url)
     {
