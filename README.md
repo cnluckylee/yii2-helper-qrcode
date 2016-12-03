@@ -17,11 +17,9 @@ class SiteController extends \yii\web\Controller
 ```
 
 ### View
-```php
+```
 <?php 
 use yii\helpers\Url;
 ?>
-```
-```html
 <img src="<?= Url::to(['/site/qrcode','code_url'=>'https://luluqi.cn'])?>" />
 ```
