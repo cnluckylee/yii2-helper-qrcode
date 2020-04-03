@@ -1,5 +1,5 @@
 ## 1.Install
-composer require --prefer-dist lulubin/yii2-helper-qrcode "dev-master"
+composer require --prefer-dist cnluckylee/yii2-helper-qrcode "dev-master"
 
 ## 2.Usage
 ### 2.1Example1

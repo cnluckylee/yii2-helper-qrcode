@@ -1,15 +1,15 @@
 {
-    "name": "lulubin/yii2-helper-qrcode",
+    "name": "cnluckylee/yii2-helper-qrcode",
     "description": "An Yii2 helper for qrcode",
     "keywords": ["yii2", "extension", "helper", "qrcode"],
-    "homepage": "https://github.com/lulubin/yii2-helper-qrcode",
+    "homepage": "https://github.com/cnluckylee/yii2-helper-qrcode",
     "type": "yii2-extension",
     "license": "BSD 3-Clause",
     "authors": [
         {
-            "name": "lulubin",
-            "email": "452936616@qq.com",
-            "homepage": "https://luluqi.cn/"
+            "name": "cnluckylee",
+            "email": "cnluckylee@gmail.com",
+            "homepage": "https://blog.yuxuantech.com/"
         }
     ],
     "require": {
