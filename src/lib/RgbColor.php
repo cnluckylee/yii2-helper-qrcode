@@ -2,9 +2,9 @@
 namespace lulubin\qrcode\lib;
 
 use yii\base\InvalidParamException;
-use yii\base\Object;
+use yii\base\BaseObject;
 
-class RgbColor extends Object
+class RgbColor extends BaseObject
 {
     /**
      * @var array

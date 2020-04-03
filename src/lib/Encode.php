@@ -2,9 +2,9 @@
 namespace lulubin\qrcode\lib;
 
 use Yii;
-use yii\base\Object;
+use yii\base\BaseObject;
 
-class Encode extends Object
+class Encode extends BaseObject
 {
     /**
      * @var bool whether to be case senstive or not
